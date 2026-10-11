@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "OneBlock119S.aternos.me",
-    "port": 58007,
+    "ip": "Satsukipvtserver.aternos.me",
+    "port": 62094,
     "version": "1.20.1",
     "try-creative": false
   },
